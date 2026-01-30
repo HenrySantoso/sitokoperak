@@ -41,7 +41,6 @@
                 </div>
             </div>
 
-
             <!-- Usia -->
             <div class="form-group mb-3">
                 <label for="usia_pengerajin">Usia</label>
